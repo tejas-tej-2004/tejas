@@ -11,9 +11,9 @@ struct student
 int main()
 {
 	
-	    cout<<"Name: Hitendrasingh Vishnu Ranganekar\n";
+	    cout<<"Name: Tejas Digambar kale \n";
     cout<<"Div: B\n";
-    cout<<"Roll No: 18\n\n";
+    cout<<"Roll No: 106\n\n";
    
 	student s;
 	cout<<"enter name:";
@@ -36,12 +36,12 @@ int main()
 }
 /*
 O/P:
-Name: Hitendrasingh Vishnu Ranganekar
+Name: Tejas Digambar kale
 Div: B
-Roll No: 18
+Roll No: 106
 
-enter name:hitendra
-enter roll_no:18
+enter name:Tejas 
+enter roll_no:106
 enter div:B
 enter marks:95
 
@@ -51,5 +51,6 @@ div:B
 marks:95
 
 */
+
 
 
